@@ -1,5 +1,6 @@
 # Batatabit
-This project is a replica of the main page of google without functionality.
+
+The frontend of a website will be created based on its wireframe, its architecture will be analyzed and the code will be built for each of its parts so that it adapts to any user device.
 
 # Screenshot
 
