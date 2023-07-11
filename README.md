@@ -4,7 +4,8 @@ The frontend of a website will be created based on its wireframe, its architectu
 
 # Screenshot
 
-![Captura1](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle/assets/113924667/0656e2a2-345b-4b83-a2dd-5bbfc8996dfc)
+![Captura1](https://github.com/AndresF-SanchezG/proyecto3-batatabit/assets/113924667/b1a5501c-3b9c-40c4-9d8a-435c36d003d6)
+
 
 # Links
 
