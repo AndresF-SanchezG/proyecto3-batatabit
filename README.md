@@ -8,11 +8,11 @@ The frontend of a website will be created based on its wireframe, its architectu
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://proyecto1-clone-google.vercel.app/)
+- Live Site URL: [Vercel deployed app](https://proyecto3-batatabit.vercel.app/)
 
 # Author
 
 - Tutor - Diego De Granda [@degranda10](https://twitter.com/degranda10?t=hnoz6IUoxadjVEQux9Zzdw&s=09)
 - School - [Platzi](https://www.platzi.com)
-- Curse - [Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/)
+- Curse - [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/cursos/mobile-first/)
 - Github - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
